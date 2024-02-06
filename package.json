@@ -1,6 +1,6 @@
 {
   "name": "hris-vue",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "bootstrap": "^5.3.1",
     "chart.js": "^4.4.1",
+    "firebase": "^10.8.0",
     "vue": "^3.4.15"
   },
   "devDependencies": {
